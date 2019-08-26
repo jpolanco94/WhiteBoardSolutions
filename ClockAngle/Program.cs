@@ -14,3 +14,5 @@ namespace ClockAngle
             if (diff > 180) return 360 - diff;
             return diff;
         }
+    }
+}

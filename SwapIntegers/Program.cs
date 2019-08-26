@@ -13,3 +13,5 @@ namespace SwapIntegers
 
             return $"{A},{B}";
         }
+    }
+}

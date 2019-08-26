@@ -18,4 +18,6 @@ namespace CountCapitals
             }
             return count;
         }
+    }
+}
 
