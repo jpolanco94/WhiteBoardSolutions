@@ -18,6 +18,7 @@ namespace CountCapitals
             }
             return count;
         }
+        static void Main(string[] args) { }
     }
 }
 

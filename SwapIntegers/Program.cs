@@ -13,5 +13,7 @@ namespace SwapIntegers
 
             return $"{A},{B}";
         }
+        static void Main(string[] args)
+        { }
     }
 }

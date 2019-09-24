@@ -36,6 +36,8 @@ namespace ToCamelCase
             }
             return camelCaseString;
         }
+        static void Main(string[] args)
+        { }
 
     }
 }

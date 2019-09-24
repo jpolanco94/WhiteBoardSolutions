@@ -27,5 +27,6 @@ namespace WhiteBoardSolutions
             }
             return julianDay;
         }
+        static void Main(string[] args) { }
     }
 }
